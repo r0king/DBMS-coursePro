@@ -118,7 +118,7 @@ body .container .card .box .content a {
   position: relative;
   display: inline-block;
   padding: 8px 20px;
-  background: black;
+  background: rgb(112, 111, 111);
   border-radius: 5px;
   text-decoration: none;
   color: white;
